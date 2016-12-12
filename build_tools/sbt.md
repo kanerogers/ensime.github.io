@@ -19,7 +19,7 @@ addSbtPlugin("org.ensime" % "sbt-ensime" % "1.12.4")
 
 **Check that again**, if you incorrectly used `~/.sbt/0.13/plugins.sbt` you'll get an sbt resolution error, it really has to be in the `plugins` folder.
 
-**One more check** we've undergone a few artefact name changes - make sure you copied the full line.
+**One more check** we've undergone a few artifact name changes - make sure you copied the full line.
 
 If you are following the developer version of ENSIME, add this to your `~/.sbt/0.13/global.sbt`
 
